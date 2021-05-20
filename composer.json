@@ -1,0 +1,19 @@
+{
+    "name": "jeromeschweitzer/voiture",
+    "description": "Projet Voiture",
+    "authors": [
+        {
+            "name": "Jerome68870",
+            "email": "jschweitzer553@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "autoload":{
+        "psr-4":{
+            "App\\":"class/"
+        }
+    },
+    "require": {}
+}
